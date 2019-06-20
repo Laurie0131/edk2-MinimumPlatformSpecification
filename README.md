@@ -31,6 +31,7 @@
 
 <img src="media/TianocoreTitlePageLogo.jpg" width="300" />
 
+
 ### {{ book.title }}
 
 {% if book.draft %}
